@@ -1,0 +1,218 @@
+body
+{
+	background: #151519;
+	font-family: 'Luna';
+}
+
+
+#hh
+{
+	margin-left: 10%;
+}
+
+a
+{
+	margin: 2%;
+
+}
+
+
+
+
+
+#h11:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+
+
+#h12:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+
+#h13:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+
+#h14:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+
+#h15:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+
+
+#h16:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+#h17
+{
+	margin-left: 32%;
+}
+
+#h17:hover {
+  box-shadow: 0 8px 50px 0 rgba(255,0,0,0.3),0 7px 20px 0 rgba(255,255,255,0.56);
+}
+
+
+
+/*-----------------------------------------------------------MEDIA QUERY-------------------------------------------------*/
+
+
+
+@media(min-width: 767px) and (max-width: 992px)
+{
+
+	#h11
+	{
+		margin-left: 8.5%;
+	}
+#h13
+	{
+		margin-left: 8.5%;
+	}
+	#h15
+	{
+		margin-left: 8.5%;
+	}
+
+#h17
+	{
+		margin-left: 27%;
+	}
+
+}
+
+
+
+
+@media(min-width: 576px) and (max-width: 766px)
+{
+
+#h11
+	{
+		margin-left: 19%;
+	}
+
+#h12
+	{
+		margin-left: 19%;
+	}#h13
+	{
+		margin-left: 19%;
+	}#h14
+	{
+		margin-left: 19%;
+	}#h15
+	{
+		margin-left: 19%;
+	}#h16
+	{
+		margin-left: 19%;
+	}
+
+#h17
+	{
+		margin-left: 19%;
+	}
+
+
+
+
+}
+
+
+@media(max-width: 575px) and (min-width: 495px)
+{
+
+#h17
+	{
+		margin-left: 0%;
+	}
+
+
+	#h16
+	{
+		margin-left: 0%;
+	}
+
+
+	#h15
+	{
+		margin-left: 0%;
+	}
+	#h14
+	{
+		margin-left: 0%;
+	}
+	#h13
+	{
+		margin-left: 0%;
+	}
+	#h12
+	{
+		margin-left: 0%;
+	}
+#h11
+	{
+		margin-left: 0%;
+	}
+	
+}
+
+@media(max-width: 495px)
+{
+
+#h17
+	{
+		margin-left: 0%;
+	}
+
+
+	#h16
+	{
+		margin-left: 0%;
+	}
+
+
+	#h15
+	{
+		margin-left: 0%;
+	}
+	#h14
+	{
+		margin-left: 0%;
+	}
+	#h13
+	{
+		margin-left: 0%;
+	}
+	#h12
+	{
+		margin-left: 0%;
+	}
+#h11
+	{
+		margin-left: 0%;
+	}
+	
+}
+
